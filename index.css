@@ -52,3 +52,10 @@ footer a {
 nav a:hover {
     color: green;
 }
+video {
+    width: 200px;
+    height: 200px;
+    padding: 0px 40px;
+    
+
+}  
